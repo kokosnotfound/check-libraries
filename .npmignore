@@ -1,0 +1,7 @@
+test/
+img/
+.prettierignore
+.prettierrc
+eslint.config.mjs
+.gitattributes
+CODE_OF_CONDUCT.md

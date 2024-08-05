@@ -1,0 +1,39 @@
+{
+  "name": "check-libraries",
+  "version": "0.3.1",
+  "description": "Easily check html linked libraries",
+  "main": "./bin/main.js",
+  "preferGlobal": true,
+  "funding": "https://github.com/sponsors/kokosnotfound",
+  "bin": {
+    "checklib": "./bin/main.js"
+  },
+  "type": "commonjs",
+  "engines": {
+    "node": ">=21.0.0"
+  },
+  "displayName": "Check Libraries",
+  "maintainers": [
+    {
+      "name": "kokosnotfound",
+      "url": "https://github.com/kokosnotfound"
+    }
+  ],
+  "scripts": {
+    "lint": "npx eslint ./bin/main.js",
+    "format": "npx prettier --write ./bin/main.js"
+  },
+  "keywords": [
+    "html",
+    "web",
+    "front-end"
+  ],
+  "author": "kokosnotfound",
+  "license": "MIT",
+  "devDependencies": {
+    "@eslint/js": "^9.8.0",
+    "eslint": "^9.8.0",
+    "globals": "^15.9.0",
+    "prettier": "^3.3.3"
+  }
+}
