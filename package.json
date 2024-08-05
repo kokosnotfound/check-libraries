@@ -1,6 +1,6 @@
 {
   "name": "check-libraries",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "description": "Easily check html linked libraries",
   "main": "./bin/main.js",
   "preferGlobal": true,

@@ -1,5 +1,4 @@
 test/
-img/
 .prettierignore
 .prettierrc
 eslint.config.mjs
