@@ -4,9 +4,11 @@
   "description": "Easily check html linked libraries",
   "main": "./bin/main.js",
   "preferGlobal": true,
-  "funding": "https://github.com/sponsors/kokosnotfound",
+  "funding": {
+    "url": "https://github.com/sponsors/kokosnotfound"
+  },
   "bin": {
-    "checklib": "./bin/main.js"
+    "checklib": "bin/main.js"
   },
   "type": "commonjs",
   "engines": {
@@ -35,5 +37,13 @@
     "eslint": "^9.8.0",
     "globals": "^15.9.0",
     "prettier": "^3.3.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kokosnotfound/check-libraries.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kokosnotfound/check-libraries/issues"
+  },
+  "homepage": "https://github.com/kokosnotfound/check-libraries#readme"
 }

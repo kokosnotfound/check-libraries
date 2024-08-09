@@ -4,3 +4,4 @@ test/
 eslint.config.mjs
 .gitattributes
 CODE_OF_CONDUCT.md
+img/
