@@ -1,9 +1,6 @@
 # checklib
 
-<img alt="NPM Downloads" src="https://img.shields.io/npm/dm/check-libraries?style=for-the-badge">
-<img alt="NPM Version" src="https://img.shields.io/npm/v/check-libraries?style=for-the-badge">
-<img alt="NPM License" src="https://img.shields.io/npm/l/check-libraries?style=for-the-badge">
-<img alt="NPM Unpacked Size" src="https://img.shields.io/npm/unpacked-size/check-libraries?style=for-the-badge">
+<img alt="NPM Downloads" src="https://img.shields.io/npm/dm/check-libraries?style=for-the-badge"> <img alt="NPM Version" src="https://img.shields.io/npm/v/check-libraries?style=for-the-badge"> <img alt="NPM License" src="https://img.shields.io/npm/l/check-libraries?style=for-the-badge"> <img alt="NPM Unpacked Size" src="https://img.shields.io/npm/unpacked-size/check-libraries?style=for-the-badge">
 
 Simple command-line tool designed to check if the linked libraries in your HTML files are up to date. It currently supports following cdn providers:
 
